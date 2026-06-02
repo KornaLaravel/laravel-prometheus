@@ -9,8 +9,8 @@
 <h1>Export Laravel metrics to Prometheus</h1>
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-prometheus.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-prometheus)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-prometheus/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/spatie/laravel-prometheus/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-prometheus/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/spatie/laravel-prometheus/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://github.com/spatie/laravel-prometheus/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/laravel-prometheus/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://github.com/spatie/laravel-prometheus/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/spatie/laravel-prometheus/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-prometheus.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-prometheus)
     
 </div>
